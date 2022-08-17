@@ -27,6 +27,10 @@ ul{
     text-align: justify !important;;
 }
 
+.offers{
+    background-color: var(--brand);
+}
+
 
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
